@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aviation.WebAPI", "Aviation.WebAPI\Aviation.WebAPI.csproj", "{95FD0467-522E-4F19-946F-50C96494FB94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainModel", "DomainModel\DomainModel.csproj", "{F556AC6E-D4FC-4AAF-B0D1-54CC3DDBDDD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95FD0467-522E-4F19-946F-50C96494FB94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95FD0467-522E-4F19-946F-50C96494FB94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95FD0467-522E-4F19-946F-50C96494FB94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95FD0467-522E-4F19-946F-50C96494FB94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F556AC6E-D4FC-4AAF-B0D1-54CC3DDBDDD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F556AC6E-D4FC-4AAF-B0D1-54CC3DDBDDD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F556AC6E-D4FC-4AAF-B0D1-54CC3DDBDDD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F556AC6E-D4FC-4AAF-B0D1-54CC3DDBDDD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CB96DFF-C3BF-4129-A644-D5C836F5948E}
+	EndGlobalSection
+EndGlobal
